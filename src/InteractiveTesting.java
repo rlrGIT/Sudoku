@@ -7,10 +7,7 @@ import java.util.Arrays;
  * A class for interactive SudokuSolver testing from the cmd line
  * @author Russell Rivera
  * @since July 9th, 2019
- * Desc: Fortify SCA Application
  * Notes: See README.txt for usage, just compile and run from cmd line.
- * To complete this assignment in a timely manner, the tester was not
- * tested as rigorously as the actual SudokuSolver.
  */
 public class InteractiveTesting {
     public InteractiveTesting() {}

@@ -2,7 +2,6 @@
  * A class for running an initial suite of testcases for SudokuSolver
  * @author Russell Rivera
  * @since July 7th, 2020
- * Desc: Fortify SCA Application
  *
  * Works Cited: The following sources were used to gather test cases:
  *      https://www.nytimes.com/puzzles/sudoku

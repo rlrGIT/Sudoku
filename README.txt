@@ -1,19 +1,9 @@
-/*
+/
 Author: Russell Rivera
 Date: July 10th, 2020
 Desc: README file
 */
 
-Hello, Fortify!
-
-Thank you for considering my candidacy for a position working on the static code analyzer.
-Below is some documentation on how to use the two classes I've provided. I have provided a
-built-in test suite and TestCaseRunner class that I used to check my own work. The two test
-cases that you have provided are written into my hard-coded test suite. I have also included
-the way I quickly tested Sudoku's that I found online.
-
-
-#########################################################################################################
 Contents and Files:
 
 - SudokuSolver.java is my actual Sudoku solver.
@@ -24,9 +14,6 @@ hard coded tests. Note: some of these take a while, esp. the last test.
 - InteractiveTesting.java is some code I have to read in user-input rows of a Sudoku board, and
 automatically build and attempt to solve the board generated from that user input. This is what
 I used to test corner cases after my solver passed my test cases in TestCaseRunner.java.
-
-- Russell_Rivera_Fortify_SCA_Questions.pdf contains the other two written questions for my
-application, as well as an outline of the challenges I had while building the solver.
 
 
 #########################################################################################################

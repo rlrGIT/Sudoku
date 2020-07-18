@@ -4,7 +4,6 @@ import java.util.*;
  * A class for solving Sudoku Puzzles
  @author Russell Rivera
  @since July 5, 2020 - July 10th, 2020
- Desc: Fortify SCA Application
  Notes: See README.md for additional documentation, see TestCaseRunner.java for automated tester
  * or look at InteractiveTesting.java for running your own tests.
  */
